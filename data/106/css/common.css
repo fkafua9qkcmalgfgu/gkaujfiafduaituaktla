@@ -1,25 +1,25 @@
 @charset "utf-8";
-@import url('/assets/fonts/ProductSans.css');
+@import url('https://cdn.jsdelivr.net/gh/fkafua9qkcmalgfgu/gkaujfiafduaituaktla@66348ac/assets/fonts/ProductSans.css');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
-@import url('/assets/fonts/NotoSansKR.css');
+@import url('https://cdn.jsdelivr.net/gh/fkafua9qkcmalgfgu/gkaujfiafduaituaktla@66348ac/assets/fonts/NotoSansKR.css');
 
 @font-face {
     font-family: 'GmarketSansLight';
-    src: url('/assets/fonts/GmarketSans/GmarketSansLight.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/fkafua9qkcmalgfgu/gkaujfiafduaituaktla@66348ac/assets/fonts/GmarketSans/GmarketSansLight.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'GmarketSansMedium';
-    src: url('/assets/fonts/GmarketSans/GmarketSansMedium.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/fkafua9qkcmalgfgu/gkaujfiafduaituaktla@66348ac/assets/fonts/GmarketSans/GmarketSansMedium.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'GmarketSansBold';
-    src: url('/assets/fonts/GmarketSans/GmarketSansBold.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/fkafua9qkcmalgfgu/gkaujfiafduaituaktla@66348ac/assets/fonts/GmarketSans/GmarketSansBold.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
