@@ -1,0 +1,47 @@
+@font-face {
+    font-family:'ProductSans';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Product Sans Thin Regular'),
+         url('ProductSans/ProductSans-Thin.woff') format('woff');
+}
+
+@font-face {
+    font-family:'ProductSans';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Product Sans Light Regular'),
+         url('ProductSans/ProductSans-Light.woff') format('woff');
+}
+
+@font-face {
+    font-family:'ProductSans';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Product Sans Regular'),
+         url('ProductSans/ProductSans-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family:'ProductSans';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Product Sans Medium Regular'),
+         url('ProductSans/ProductSans-Medium.woff') format('woff');
+}
+
+@font-face {
+    font-family:'ProductSans';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Product Sans Bold'),
+         url('ProductSans/ProductSans-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family:'ProductSans';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Product Sans Black Regular'),
+         url('ProductSans/ProductSans-Black.woff') format('woff');
+}
